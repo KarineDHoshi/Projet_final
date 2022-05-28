@@ -2,7 +2,7 @@
 
 ## Description
 
-###Projet final Full stack crypto currencies
+_Projet final Full stack crypto currencies_
 
    *etape 1
    *etape 2
