@@ -2,24 +2,22 @@
 
 ## Description
 
-_Projet final Full stack crypto currencies_
-
-   *etape 1
-   *etape 2
-   *etape 3
-
-### Executing program
+Projet final Full stack crypto currencies
+   -
+   -
+   -
+### Execution du programme !!(Executing program)
 
 * How to run the program (example: bundle install ext..)
 * Step-by-step 
 
-## Help
+## Aide (Help)
 ```
 Command en cas de bug du programme
 contacter l'équipe si aucune solution n'est proposer :)
 ```
 ___________________________________________________________________________________________
-## Authors
+## Auteur (authors)
 
    *Karine 
    *Nicolas C.
