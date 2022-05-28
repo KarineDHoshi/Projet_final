@@ -3,9 +3,10 @@
 ## Description
 
 ###Projet final Full stack crypto currencies
-   *
-   *
-   *
+
+   *etape 1
+   *etape 2
+   *etape 3
 
 ### Executing program
 
